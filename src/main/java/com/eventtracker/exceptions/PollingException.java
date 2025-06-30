@@ -1,4 +1,4 @@
-package com.sportygroup.exceptions;
+package com.eventtracker.exceptions;
 
 public class PollingException extends RuntimeException {
     public PollingException(String message, Throwable cause) {

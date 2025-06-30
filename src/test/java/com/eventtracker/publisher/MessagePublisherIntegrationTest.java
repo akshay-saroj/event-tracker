@@ -1,9 +1,9 @@
-package com.sportygroup.publisher;
+package com.eventtracker.publisher;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
-import com.sportygroup.dto.ScoreData;
-import com.sportygroup.kafka.DeadLetterQueuePublisher;
-import com.sportygroup.kafka.MessagePublisher;
+import com.eventtracker.dto.ScoreData;
+import com.eventtracker.kafka.DeadLetterQueuePublisher;
+import com.eventtracker.kafka.MessagePublisher;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

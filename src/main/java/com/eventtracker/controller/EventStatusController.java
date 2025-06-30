@@ -1,7 +1,7 @@
-package com.sportygroup.controller;
+package com.eventtracker.controller;
 
-import com.sportygroup.dto.EventStatusUpdate;
-import com.sportygroup.service.EventService;
+import com.eventtracker.dto.EventStatusUpdate;
+import com.eventtracker.service.EventService;
 import jakarta.validation.Valid;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

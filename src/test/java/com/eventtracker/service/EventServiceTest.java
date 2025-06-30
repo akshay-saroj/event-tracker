@@ -1,8 +1,8 @@
-package com.sportygroup.service;
+package com.eventtracker.service;
 
-import com.sportygroup.client.ExternalApiClient;
-import com.sportygroup.dto.ScoreData;
-import com.sportygroup.kafka.MessagePublisher;
+import com.eventtracker.client.ExternalApiClient;
+import com.eventtracker.dto.ScoreData;
+import com.eventtracker.kafka.MessagePublisher;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;

@@ -1,6 +1,6 @@
-package com.sportygroup.controller;
+package com.eventtracker.controller;
 
-import com.sportygroup.dto.ScoreData;
+import com.eventtracker.dto.ScoreData;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;

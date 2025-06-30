@@ -1,7 +1,7 @@
-package com.sportygroup.client;
+package com.eventtracker.client;
 
-import com.sportygroup.dto.ScoreData;
-import com.sportygroup.exceptions.ScoreFetchException;
+import com.eventtracker.dto.ScoreData;
+import com.eventtracker.exceptions.ScoreFetchException;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestClientException;
 import org.springframework.web.client.RestTemplate;

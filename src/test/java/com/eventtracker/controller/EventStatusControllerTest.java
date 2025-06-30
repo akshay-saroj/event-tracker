@@ -1,4 +1,4 @@
-package com.sportygroup.controller;
+package com.eventtracker.controller;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

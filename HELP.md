@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.sportygroup.event-tracker' is invalid and this project uses 'com.sportygroup.event_tracker' instead.
+* The original package name 'com.eventtracker.event-tracker' is invalid and this project uses 'com.eventtracker.event_tracker' instead.
 
 # Getting Started
 

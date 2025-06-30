@@ -1,7 +1,7 @@
-package com.sportygroup.kafka;
+package com.eventtracker.kafka;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.sportygroup.dto.ScoreData;
+import com.eventtracker.dto.ScoreData;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.kafka.core.KafkaTemplate;

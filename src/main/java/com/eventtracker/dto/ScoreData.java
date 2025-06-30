@@ -1,4 +1,4 @@
-package com.sportygroup.dto;
+package com.eventtracker.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

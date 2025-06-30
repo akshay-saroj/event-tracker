@@ -1,4 +1,4 @@
-package com.sportygroup.dto;
+package com.eventtracker.dto;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
